@@ -1,5 +1,5 @@
 # html-tutorial
-code for 3-step HTML tutorial found at itinerantcode.com
+code for 3-step HTML tutorial found at [Itinerant Code](https://itinerantcode.com/tutorials/how-to-set-up-a-basic-html-file/)
 
 ## Step 01: Pick an editor (or don’t)
 
