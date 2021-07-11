@@ -21,7 +21,7 @@ Now, just below the closing `</title>` tag, add an open and closing set of body 
 
 Your file should now look like this:
 
-![step 03](https://itinerantcode.com/wp-content/uploads/2021/07/step03.jpg)
+![step 03](https://itinerantcode.com/wp-content/uploads/2021/07/step03-1.jpg)
 ## Step 03: Enjoy!
 
 And that’s it! Now you can navigate to your file in your system and double-click it to view it in your browser. All that will show is that rendered `<p>` tag, because everything else is just data.
