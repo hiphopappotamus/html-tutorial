@@ -19,7 +19,8 @@ All our code will go between those open and closing `<html>` tags. Next, right u
 
 Now, just below the closing `</title>` tag, add an open and closing set of body tags: `<body></body>`. These aptly-named tags are where the body of the website lives. All the text, images, and other goodies will live in this set of tags. Once those tags are ready, add a line of text between two paragraph tags, like this: `<p>Some text here!</p>`
 
-Your file should look like this:
+Your file should now look like this:
+
 ![step 03](https://itinerantcode.com/wp-content/uploads/2021/07/step03.jpg)
 ## Step 03: Enjoy!
 
